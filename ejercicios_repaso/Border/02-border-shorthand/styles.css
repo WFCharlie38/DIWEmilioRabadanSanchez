@@ -1,0 +1,4 @@
+.box { width: 140px; height: 60px; display:grid; place-items:center; margin:10px 0; }
+.one {border: darkorchid 1cm ridge}
+.two {border: firebrick 4ic solid}
+.three {border: teal 10px  groove}

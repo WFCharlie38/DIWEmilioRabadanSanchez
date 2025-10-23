@@ -2,5 +2,9 @@
   padding:10px 16px;
   background:#111827;
   color:#fff;
- 
+  border: #fff transparent 2px;
+}
+
+.btn:hover {
+  border: red solid 2px;
 }
